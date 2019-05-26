@@ -8,11 +8,9 @@ https://github.com/dashmeet-singh/assignment-repository.git
 
 
 # Install dependencies
-
 yarn
 
 # Start App & Server
-
 yarn run dev
 
 ```
@@ -23,11 +21,9 @@ yarn run dev
 2. npm
 ```
 # Client Application will run on below URL
-
 http://localhost:3000
 
 # Server will run on below URL
-
 http://localhost:8080
 
 # Features
@@ -46,4 +42,4 @@ http://localhost:8080
 
 * Redux for Application State Management
 
-* Redux-Thunk as Middleware for async processing
+* Redux-thunk as middleware for async processing
