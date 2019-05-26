@@ -2,9 +2,10 @@
 
 # Clone GIT Repository
 
+git clone repository-url
+
 https://github.com/dashmeet-singh/assignment-repository.git
 
-git clone repository-name
 
 # Install dependencies
 yarn
@@ -35,4 +36,4 @@ yarn run dev
 
 * Redux for Application State Management
 
-* Redux-thunk for async processing
+* Redux-thunk as middleware for async processing
