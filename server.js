@@ -14,10 +14,6 @@ const port = process.env.PORT || 8080;
 var mongoose = require('mongoose');
 var Transaction = require('./models/transaction');
 
-//const dbURL = 'mongodb+srv://user:user@cluster0-nhnjo.mongodb.net/test?retryWrites=true';
-
-//const dbURL = 'mongodb+srv://user:user@cluster0-nhnjo.mongodb.net/test?retryWrites=true';
-
 mongoose.connect(config.dbURL, function(err){
   if(err){
     console.log('Error connecting to: '+ config.dbURL)
