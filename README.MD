@@ -1,6 +1,10 @@
 # React-Redux Assignment
 
-# install dependencies
+# Clone GIT Repository
+
+https://github.com/dashmeet-singh/assignment-repository.git
+
+# Install dependencies
 yarn
 
 # start server
@@ -14,8 +18,9 @@ yarn run dev
 
 1. node
 2. npm
+```
 
-## Features
+# Features
 
 * MongoDB used as Database.
 
