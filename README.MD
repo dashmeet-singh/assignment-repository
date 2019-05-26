@@ -7,10 +7,7 @@ https://github.com/dashmeet-singh/assignment-repository.git
 # Install dependencies
 yarn
 
-# start server
-yarn run server
-
-# start app
+# Start App & Server
 yarn run dev
 ```
 
