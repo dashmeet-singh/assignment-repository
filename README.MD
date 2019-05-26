@@ -4,7 +4,7 @@
 
 https://github.com/dashmeet-singh/assignment-repository.git
 
-git clone <repositoty>
+git clone repositoty-name
 
 # Install dependencies
 yarn
