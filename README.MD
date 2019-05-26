@@ -8,10 +8,13 @@ https://github.com/dashmeet-singh/assignment-repository.git
 
 
 # Install dependencies
+
 yarn
 
 # Start App & Server
+
 yarn run dev
+
 ```
 
 ### Prerequisites
@@ -19,10 +22,17 @@ yarn run dev
 1. node
 2. npm
 ```
+# Client Application will run on below URL
+
+http://localhost:3000
+
+# Server will run on below URL
+
+http://localhost:8080
 
 # Features
 
-* MongoDB as Database.
+* Mongo as Database.
 
 * Data hosted in mLab.
 
@@ -36,4 +46,4 @@ yarn run dev
 
 * Redux for Application State Management
 
-* Redux-thunk as middleware for async processing
+* Redux-Thunk as Middleware for async processing
