@@ -19,14 +19,18 @@ yarn run dev
 
 # Features
 
-* MongoDB used as Database.
+* MongoDB as Database.
 
 * Data hosted in mLab.
 
-* Express JS and mongoose used at server side
+* Express JS and Mongoose used at server side
 
 * Form validations
 
 * Pagination of the dynamic table
 
 * Server side rendering using Next JS
+
+* Redux for Application State Management
+
+* Redux-thunk for async processing
