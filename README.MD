@@ -26,7 +26,7 @@ http://localhost:3000
 # Server will run on below URL
 http://localhost:8080
 
-# Tech Stack
+# Tech Stack/Features
 
 * Mongo as Database.
 
