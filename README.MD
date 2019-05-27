@@ -32,7 +32,7 @@ http://localhost:8080
 
 * Data hosted in mLab.
 
-* Express JS and Mongoose used at server side
+* Express JS and Mongoose used
 
 * Form validations
 
