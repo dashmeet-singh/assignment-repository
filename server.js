@@ -3,7 +3,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const cors = require('cors');
 var env = process.env.NODE_ENV || 'dev';
-var config = require('./config')[env];
+var config = require('./server.config')[env];
 
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));

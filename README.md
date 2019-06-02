@@ -8,10 +8,10 @@ https://github.com/dashmeet-singh/assignment-repository.git
 
 
 # Install dependencies
-yarn
+npm install
 
 # Start App & Server
-yarn run dev
+npm run dev
 
 ```
 
@@ -32,13 +32,13 @@ http://localhost:8080
 
 * Data hosted in mLab.
 
-* Express JS and Mongoose used
+* Express JS and Mongoose
 
 * Form validations
 
 * Pagination of the dynamic table
 
-* Server side rendering using Next JS
+* React 16.8 Hooks
 
 * Redux for Application State Management
 
