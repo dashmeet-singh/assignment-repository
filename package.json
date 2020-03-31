@@ -22,7 +22,7 @@
     "http-proxy-middleware": "^0.19.1",
     "jquery": "^3.4.1",
     "mongoose": "^5.5.9",
-    "next": "^5.1.0",
+    "next": "^9.3.3",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.0",
